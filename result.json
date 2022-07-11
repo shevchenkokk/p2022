@@ -1,0 +1,5741 @@
+{
+    "1": {
+        "train_number": "004А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T23:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T08:30:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.5,
+            "reviewCount": 585
+        }
+    },
+    "2": {
+        "train_number": "028А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 8,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 14,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 16,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T22:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:50:00+03:00",
+                "departureTime": "2022-07-13T00:52:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:39:00+03:00",
+                "departureTime": "2022-07-13T02:51:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.9,
+            "reviewCount": 1088
+        }
+    },
+    "3": {
+        "train_number": "054Ч",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T23:40:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T08:36:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.4,
+            "reviewCount": 817
+        }
+    },
+    "4": {
+        "train_number": "786А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 24,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 14,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 36,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 49,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 8,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T21:00:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:56:00+03:00",
+                "departureTime": "2022-07-12T23:57:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:48:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.2,
+            "reviewCount": 13
+        }
+    },
+    "5": {
+        "train_number": "778А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 11,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T17:40:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T18:46:00+03:00",
+                "departureTime": "2022-07-12T18:47:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:43:00+03:00",
+                "departureTime": "2022-07-12T19:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.2,
+            "reviewCount": 541
+        }
+    },
+    "6": {
+        "train_number": "259С",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 11,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 5,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 12,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 29,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T11:07:00+03:00",
+                "departureTime": "2022-07-12T11:26:00+03:00",
+                "stopDuration": "19",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T14:24:00+03:00",
+                "departureTime": "2022-07-12T14:25:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T16:03:00+03:00",
+                "departureTime": "2022-07-12T16:04:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T16:35:00+03:00",
+                "departureTime": "2022-07-12T16:36:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:14:00+03:00",
+                "departureTime": "2022-07-12T19:15:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:04:00+03:00",
+                "departureTime": "2022-07-12T20:05:00+03:00",
+                "stopDuration": "1",
+                "name": "Любань"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:05:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.1,
+            "reviewCount": 559
+        }
+    },
+    "7": {
+        "train_number": "146У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 11,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 16,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 15,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T21:45:00+03:00",
+                "departureTime": "2022-07-12T22:00:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:11:00+03:00",
+                "departureTime": "2022-07-13T01:12:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:27:00+03:00",
+                "departureTime": "2022-07-13T02:29:00+03:00",
+                "stopDuration": "2",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:59:00+03:00",
+                "departureTime": "2022-07-13T03:04:00+03:00",
+                "stopDuration": "5",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:52:00+03:00",
+                "departureTime": "2022-07-13T03:53:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T04:38:00+03:00",
+                "departureTime": "2022-07-13T04:39:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:30:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.2,
+            "reviewCount": 1105
+        }
+    },
+    "8": {
+        "train_number": "780А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 44,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 19,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 25,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T19:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:35:00+03:00",
+                "departureTime": "2022-07-12T20:36:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:32:00+03:00",
+                "departureTime": "2022-07-12T21:33:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:36:00+03:00",
+                "departureTime": "2022-07-12T22:37:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:32:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.3,
+            "reviewCount": 659
+        }
+    },
+    "9": {
+        "train_number": "002А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 11,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 5,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 16,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T23:55:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T07:55:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.5,
+            "reviewCount": 436
+        }
+    },
+    "10": {
+        "train_number": "006А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 20,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 20,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 25,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 81,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 74,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 19,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 10,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 136,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 115,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T22:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:40:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.2,
+            "reviewCount": 1767
+        }
+    },
+    "11": {
+        "train_number": "026А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 67,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 63,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 77,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 79,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 12,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 5,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T21:55:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:52:00+03:00",
+                "departureTime": "2022-07-12T23:53:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:06:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.2,
+            "reviewCount": 1126
+        }
+    },
+    "12": {
+        "train_number": "232У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 105,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 101,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 10,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 13,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T23:10:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:04:00+03:00",
+                "departureTime": "2022-07-13T01:05:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:39:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.6,
+            "reviewCount": 58
+        }
+    },
+    "13": {
+        "train_number": "049Ч",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 29,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 19,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T23:09:00+03:00",
+                "departureTime": "2022-07-12T23:24:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:02:00+03:00",
+                "departureTime": "2022-07-13T02:05:00+03:00",
+                "stopDuration": "3",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:42:00+03:00",
+                "departureTime": "2022-07-13T03:55:00+03:00",
+                "stopDuration": "13",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T04:40:00+03:00",
+                "departureTime": "2022-07-13T04:41:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:41:00+03:00",
+                "departureTime": "2022-07-13T05:42:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-13T10:05:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.1,
+            "reviewCount": 1771
+        }
+    },
+    "14": {
+        "train_number": "772А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T15:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T18:27:00+03:00",
+                "departureTime": "2022-07-12T18:28:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:15:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.4,
+            "reviewCount": 339
+        }
+    },
+    "15": {
+        "train_number": "120В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 12,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 12,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T21:22:00+03:00",
+                "departureTime": "2022-07-12T21:37:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:43:00+03:00",
+                "departureTime": "2022-07-13T00:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:09:00+03:00",
+                "departureTime": "2022-07-13T01:10:00+03:00",
+                "stopDuration": "1",
+                "name": "Лихославль"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:37:00+03:00",
+                "departureTime": "2022-07-13T01:38:00+03:00",
+                "stopDuration": "1",
+                "name": "Спирово"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:02:00+03:00",
+                "departureTime": "2022-07-13T02:03:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:31:00+03:00",
+                "departureTime": "2022-07-13T02:32:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:32:00+03:00",
+                "departureTime": "2022-07-13T03:33:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:16:00+03:00",
+                "departureTime": "2022-07-13T10:10:00+03:00",
+                "stopDuration": "234",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 7.7,
+            "reviewCount": 909
+        }
+    },
+    "16": {
+        "train_number": "056А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 70,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 61,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 14,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 8,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 23,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [],
+        "rate": {
+            "rating": 7.9,
+            "reviewCount": 577
+        }
+    },
+    "17": {
+        "train_number": "760А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T09:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:33:00+03:00",
+                "departureTime": "2022-07-12T10:34:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:49:00+03:00",
+                "departureTime": "2022-07-12T11:50:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T13:20:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.5,
+            "reviewCount": 571
+        }
+    },
+    "18": {
+        "train_number": "228А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 12,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T02:51:00+03:00",
+                "departureTime": "2022-07-12T03:06:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:02:00+03:00",
+                "departureTime": "2022-07-12T06:03:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:13:00+03:00",
+                "departureTime": "2022-07-12T08:14:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:44:00+03:00",
+                "departureTime": "2022-07-12T09:10:00+03:00",
+                "stopDuration": "26",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:58:00+03:00",
+                "departureTime": "2022-07-12T09:59:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:48:00+03:00",
+                "departureTime": "2022-07-12T10:50:00+03:00",
+                "stopDuration": "2",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T12:40:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7,
+            "reviewCount": 582
+        }
+    },
+    "19": {
+        "train_number": "266А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 13,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 12,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 8,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 14,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 21,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 22,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T22:20:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:59:00+03:00",
+                "departureTime": "2022-07-13T02:00:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:49:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 7.8,
+            "reviewCount": 49
+        }
+    },
+    "20": {
+        "train_number": "784А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 29,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 13,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 25,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 47,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T20:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:51:00+03:00",
+                "departureTime": "2022-07-12T21:52:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:31:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.9,
+            "reviewCount": 67
+        }
+    },
+    "21": {
+        "train_number": "089Ж",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 35,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 38,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T02:23:00+03:00",
+                "departureTime": "2022-07-12T02:38:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:13:00+03:00",
+                "departureTime": "2022-07-12T05:14:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:20:00+03:00",
+                "departureTime": "2022-07-12T06:21:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:49:00+03:00",
+                "departureTime": "2022-07-12T07:01:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:23:00+03:00",
+                "departureTime": "2022-07-12T08:24:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:20:00+03:00",
+                "departureTime": "2022-07-12T09:21:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T12:07:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8,
+            "reviewCount": 313
+        }
+    },
+    "22": {
+        "train_number": "762А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T09:40:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:46:00+03:00",
+                "departureTime": "2022-07-12T10:47:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:43:00+03:00",
+                "departureTime": "2022-07-12T11:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T13:32:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.6,
+            "reviewCount": 337
+        }
+    },
+    "23": {
+        "train_number": "135С",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 8,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 36,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 24,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 31,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 24,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 8,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T19:15:00+03:00",
+                "departureTime": "2022-07-12T19:30:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:45:00+03:00",
+                "departureTime": "2022-07-12T23:46:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:56:00+03:00",
+                "departureTime": "2022-07-13T00:57:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:28:00+03:00",
+                "departureTime": "2022-07-13T01:43:00+03:00",
+                "stopDuration": "15",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:01:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.3,
+            "reviewCount": 459
+        }
+    },
+    "24": {
+        "train_number": "082В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 3,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T01:36:00+03:00",
+                "departureTime": "2022-07-12T02:03:00+03:00",
+                "stopDuration": "27",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:39:00+03:00",
+                "departureTime": "2022-07-12T04:40:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:50:00+03:00",
+                "departureTime": "2022-07-12T05:51:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:22:00+03:00",
+                "departureTime": "2022-07-12T06:34:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:11:00+03:00",
+                "departureTime": "2022-07-12T07:12:00+03:00",
+                "stopDuration": "1",
+                "name": "Угловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:25:00+03:00",
+                "departureTime": "2022-07-12T07:26:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:49:00+03:00",
+                "departureTime": "2022-07-12T08:50:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8,
+            "reviewCount": 718
+        }
+    },
+    "25": {
+        "train_number": "756А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T06:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:55:00+03:00",
+                "departureTime": "2022-07-12T07:56:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:52:00+03:00",
+                "departureTime": "2022-07-12T08:53:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:57:00+03:00",
+                "departureTime": "2022-07-12T09:58:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:54:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.5,
+            "reviewCount": 641
+        }
+    },
+    "26": {
+        "train_number": "754А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 10,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T05:55:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.4,
+            "reviewCount": 509
+        }
+    },
+    "27": {
+        "train_number": "726А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 48,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 32,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 60,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 48,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 45,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T15:21:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:33:00+03:00",
+                "departureTime": "2022-07-12T15:34:00+03:00",
+                "stopDuration": "1",
+                "name": "Лихоборы (бывш. НАТИ)"
+            },
+            {
+                "arrivalTime": "2022-07-12T16:04:00+03:00",
+                "departureTime": "2022-07-12T16:14:00+03:00",
+                "stopDuration": "10",
+                "name": "Крюково (Зеленоград)"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:17:00+03:00",
+                "departureTime": "2022-07-12T17:19:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:56:00+03:00",
+                "departureTime": "2022-07-12T17:57:00+03:00",
+                "stopDuration": "1",
+                "name": "Спирово"
+            },
+            {
+                "arrivalTime": "2022-07-12T18:14:00+03:00",
+                "departureTime": "2022-07-12T18:15:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T18:43:00+03:00",
+                "departureTime": "2022-07-12T18:50:00+03:00",
+                "stopDuration": "7",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:30:00+03:00",
+                "departureTime": "2022-07-12T19:31:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:43:00+03:00",
+                "departureTime": "2022-07-12T20:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:05:00+03:00",
+                "departureTime": "2022-07-12T21:06:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:38:00+03:00",
+                "departureTime": "2022-07-12T21:39:00+03:00",
+                "stopDuration": "1",
+                "name": "Тосно"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:55:00+03:00",
+                "departureTime": "2022-07-12T21:56:00+03:00",
+                "stopDuration": "1",
+                "name": "Колпино"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:06:00+03:00",
+                "departureTime": "2022-07-12T22:07:00+03:00",
+                "stopDuration": "1",
+                "name": "Обухово"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:20:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.2,
+            "reviewCount": 18
+        }
+    },
+    "28": {
+        "train_number": "776А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 3,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T17:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:10:00+03:00",
+                "departureTime": "2022-07-12T19:11:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:29:00+03:00",
+                "departureTime": "2022-07-12T20:30:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:20:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.1,
+            "reviewCount": 731
+        }
+    },
+    "29": {
+        "train_number": "768А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T13:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:13:00+03:00",
+                "departureTime": "2022-07-12T15:14:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:49:00+03:00",
+                "departureTime": "2022-07-12T15:50:00+03:00",
+                "stopDuration": "1",
+                "name": "Угловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T16:42:00+03:00",
+                "departureTime": "2022-07-12T16:43:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:34:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.4,
+            "reviewCount": 314
+        }
+    },
+    "30": {
+        "train_number": "770А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 11,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "SEDENTARY",
+                        "seatsCount": 11,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T13:40:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T14:46:00+03:00",
+                "departureTime": "2022-07-12T14:47:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:43:00+03:00",
+                "departureTime": "2022-07-12T15:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:44:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.3,
+            "reviewCount": 678
+        }
+    },
+    "31": {
+        "train_number": "480С",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 13,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 10,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 8,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 33,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 27,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 8,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 8,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 16,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 13,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T18:08:00+03:00",
+                "departureTime": "2022-07-12T18:23:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:40:00+03:00",
+                "departureTime": "2022-07-12T21:42:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:46:00+03:00",
+                "departureTime": "2022-07-12T23:47:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:19:00+03:00",
+                "departureTime": "2022-07-13T01:07:00+03:00",
+                "stopDuration": "48",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T04:20:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.1,
+            "reviewCount": 1031
+        }
+    },
+    "32": {
+        "train_number": "246С",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 9,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 31,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 7,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 6,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 6,
+                        "isGender": true
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 4,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 69,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 29,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 23,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T11:50:00+03:00",
+                "departureTime": "2022-07-12T12:07:00+03:00",
+                "stopDuration": "17",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:36:00+03:00",
+                "departureTime": "2022-07-12T15:37:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T16:29:00+03:00",
+                "departureTime": "2022-07-12T16:30:00+03:00",
+                "stopDuration": "1",
+                "name": "Спирово"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:17:00+03:00",
+                "departureTime": "2022-07-12T18:00:00+03:00",
+                "stopDuration": "43",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T18:47:00+03:00",
+                "departureTime": "2022-07-12T18:48:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:37:00+03:00",
+                "departureTime": "2022-07-12T19:38:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:50:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.7,
+            "reviewCount": 151
+        }
+    },
+    "33": {
+        "train_number": "160В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 5,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": true
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 4,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 10,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 1,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UPPER",
+                        "seatsCount": 25,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_UPPER",
+                        "seatsCount": 13,
+                        "isGender": false
+                    },
+                    {
+                        "type": "LOWER",
+                        "seatsCount": 2,
+                        "isGender": false
+                    },
+                    {
+                        "type": "SIDE_LOWER",
+                        "seatsCount": 11,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T16:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:04:00+03:00",
+                "departureTime": "2022-07-12T19:05:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:33:00+03:00",
+                "departureTime": "2022-07-12T20:34:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:56:00+03:00",
+                "departureTime": "2022-07-12T21:59:00+03:00",
+                "stopDuration": "3",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:25:00+03:00",
+                "departureTime": "2022-07-12T22:26:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:29:00+03:00",
+                "departureTime": "2022-07-13T00:44:00+03:00",
+                "stopDuration": "15",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 8.8,
+            "reviewCount": 285
+        }
+    },
+    "34": {
+        "train_number": "049Ч",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T23:09:00+03:00",
+                "departureTime": "2022-07-12T23:24:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:02:00+03:00",
+                "departureTime": "2022-07-13T02:05:00+03:00",
+                "stopDuration": "3",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:42:00+03:00",
+                "departureTime": "2022-07-13T03:55:00+03:00",
+                "stopDuration": "13",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T04:40:00+03:00",
+                "departureTime": "2022-07-13T04:41:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:41:00+03:00",
+                "departureTime": "2022-07-13T05:42:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-13T10:05:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.1,
+            "reviewCount": 1771
+        }
+    },
+    "35": {
+        "train_number": "028А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T22:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:50:00+03:00",
+                "departureTime": "2022-07-13T00:52:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:39:00+03:00",
+                "departureTime": "2022-07-13T02:51:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.9,
+            "reviewCount": 1088
+        }
+    },
+    "36": {
+        "train_number": "146У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T21:45:00+03:00",
+                "departureTime": "2022-07-12T22:00:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:11:00+03:00",
+                "departureTime": "2022-07-13T01:12:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:27:00+03:00",
+                "departureTime": "2022-07-13T02:29:00+03:00",
+                "stopDuration": "2",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:59:00+03:00",
+                "departureTime": "2022-07-13T03:04:00+03:00",
+                "stopDuration": "5",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:52:00+03:00",
+                "departureTime": "2022-07-13T03:53:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T04:38:00+03:00",
+                "departureTime": "2022-07-13T04:39:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:30:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.2,
+            "reviewCount": 1105
+        }
+    },
+    "37": {
+        "train_number": "120В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [],
+        "rate": {
+            "rating": 7.7,
+            "reviewCount": 909
+        }
+    },
+    "38": {
+        "train_number": "724А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T05:35:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:58:00+03:00",
+                "departureTime": "2022-07-12T07:59:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:05:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.9,
+            "reviewCount": 21
+        }
+    },
+    "39": {
+        "train_number": "756А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T06:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:55:00+03:00",
+                "departureTime": "2022-07-12T07:56:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:52:00+03:00",
+                "departureTime": "2022-07-12T08:53:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:57:00+03:00",
+                "departureTime": "2022-07-12T09:58:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:54:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.5,
+            "reviewCount": 641
+        }
+    },
+    "40": {
+        "train_number": "089Ж",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T02:23:00+03:00",
+                "departureTime": "2022-07-12T02:38:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:13:00+03:00",
+                "departureTime": "2022-07-12T05:14:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:20:00+03:00",
+                "departureTime": "2022-07-12T06:21:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:49:00+03:00",
+                "departureTime": "2022-07-12T07:01:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:23:00+03:00",
+                "departureTime": "2022-07-12T08:24:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:20:00+03:00",
+                "departureTime": "2022-07-12T09:21:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T12:07:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8,
+            "reviewCount": 313
+        }
+    },
+    "41": {
+        "train_number": "266А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T22:20:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:59:00+03:00",
+                "departureTime": "2022-07-13T02:00:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:49:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 7.8,
+            "reviewCount": 49
+        }
+    },
+    "42": {
+        "train_number": "030У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-11T23:52:00+03:00",
+                "departureTime": "2022-07-12T00:15:00+03:00",
+                "stopDuration": "23",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T03:00:00+03:00",
+                "departureTime": "2022-07-12T03:02:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:15:00+03:00",
+                "departureTime": "2022-07-12T04:17:00+03:00",
+                "stopDuration": "2",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:04:00+03:00",
+                "departureTime": "2022-07-12T05:08:00+03:00",
+                "stopDuration": "4",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:45:00+03:00",
+                "departureTime": "2022-07-12T05:46:00+03:00",
+                "stopDuration": "1",
+                "name": "Угловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:17:00+03:00",
+                "departureTime": "2022-07-12T06:18:00+03:00",
+                "stopDuration": "1",
+                "name": "Боровёнка"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:13:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8.6,
+            "reviewCount": 127
+        }
+    },
+    "43": {
+        "train_number": "780А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T19:30:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:35:00+03:00",
+                "departureTime": "2022-07-12T20:36:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:32:00+03:00",
+                "departureTime": "2022-07-12T21:33:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:36:00+03:00",
+                "departureTime": "2022-07-12T22:37:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-12T23:32:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.3,
+            "reviewCount": 659
+        }
+    },
+    "44": {
+        "train_number": "232У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T23:10:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:04:00+03:00",
+                "departureTime": "2022-07-13T01:05:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T05:39:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.6,
+            "reviewCount": 58
+        }
+    },
+    "45": {
+        "train_number": "114С",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T01:02:00+03:00",
+                "departureTime": "2022-07-12T01:18:00+03:00",
+                "stopDuration": "16",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:11:00+03:00",
+                "departureTime": "2022-07-12T04:13:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:21:00+03:00",
+                "departureTime": "2022-07-12T05:22:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:51:00+03:00",
+                "departureTime": "2022-07-12T05:59:00+03:00",
+                "stopDuration": "8",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:58:00+03:00",
+                "departureTime": "2022-07-12T07:02:00+03:00",
+                "stopDuration": "4",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:54:00+03:00",
+                "departureTime": "2022-07-12T07:56:00+03:00",
+                "stopDuration": "2",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:40:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.5,
+            "reviewCount": 214
+        }
+    },
+    "46": {
+        "train_number": "160В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T16:50:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T19:04:00+03:00",
+                "departureTime": "2022-07-12T19:05:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T20:33:00+03:00",
+                "departureTime": "2022-07-12T20:34:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T21:56:00+03:00",
+                "departureTime": "2022-07-12T21:59:00+03:00",
+                "stopDuration": "3",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T22:25:00+03:00",
+                "departureTime": "2022-07-12T22:26:00+03:00",
+                "stopDuration": "1",
+                "name": "Чудово-1 (Московское)"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:29:00+03:00",
+                "departureTime": "2022-07-13T00:44:00+03:00",
+                "stopDuration": "15",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 8.8,
+            "reviewCount": 285
+        }
+    },
+    "47": {
+        "train_number": "770А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T13:40:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T14:46:00+03:00",
+                "departureTime": "2022-07-12T14:47:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T15:43:00+03:00",
+                "departureTime": "2022-07-12T15:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T17:44:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.3,
+            "reviewCount": 678
+        }
+    },
+    "48": {
+        "train_number": "128А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T01:25:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T03:18:00+03:00",
+                "departureTime": "2022-07-12T03:20:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:49:00+03:00",
+                "departureTime": "2022-07-12T04:50:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:21:00+03:00",
+                "departureTime": "2022-07-12T05:53:00+03:00",
+                "stopDuration": "32",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:42:00+03:00",
+                "departureTime": "2022-07-12T06:43:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:47:00+03:00",
+                "departureTime": "2022-07-12T07:48:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:11:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7.8,
+            "reviewCount": 499
+        }
+    },
+    "49": {
+        "train_number": "082В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "SHARED",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T01:36:00+03:00",
+                "departureTime": "2022-07-12T02:03:00+03:00",
+                "stopDuration": "27",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:39:00+03:00",
+                "departureTime": "2022-07-12T04:40:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:50:00+03:00",
+                "departureTime": "2022-07-12T05:51:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:22:00+03:00",
+                "departureTime": "2022-07-12T06:34:00+03:00",
+                "stopDuration": "12",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:11:00+03:00",
+                "departureTime": "2022-07-12T07:12:00+03:00",
+                "stopDuration": "1",
+                "name": "Угловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T07:25:00+03:00",
+                "departureTime": "2022-07-12T07:26:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:49:00+03:00",
+                "departureTime": "2022-07-12T08:50:00+03:00",
+                "stopDuration": "1",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:35:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 8,
+            "reviewCount": 718
+        }
+    },
+    "50": {
+        "train_number": "228А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SOFT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T02:51:00+03:00",
+                "departureTime": "2022-07-12T03:06:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:02:00+03:00",
+                "departureTime": "2022-07-12T06:03:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:13:00+03:00",
+                "departureTime": "2022-07-12T08:14:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:44:00+03:00",
+                "departureTime": "2022-07-12T09:10:00+03:00",
+                "stopDuration": "26",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:58:00+03:00",
+                "departureTime": "2022-07-12T09:59:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T10:48:00+03:00",
+                "departureTime": "2022-07-12T10:50:00+03:00",
+                "stopDuration": "2",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T12:40:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 7,
+            "reviewCount": 582
+        }
+    },
+    "51": {
+        "train_number": "016А",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T00:41:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T02:29:00+03:00",
+                "departureTime": "2022-07-12T02:31:00+03:00",
+                "stopDuration": "2",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T03:40:00+03:00",
+                "departureTime": "2022-07-12T03:41:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-12T04:12:00+03:00",
+                "departureTime": "2022-07-12T04:43:00+03:00",
+                "stopDuration": "31",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:26:00+03:00",
+                "departureTime": "2022-07-12T05:27:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-12T06:44:00+03:00",
+                "departureTime": "2022-07-12T06:46:00+03:00",
+                "stopDuration": "2",
+                "name": "Малая Вишера"
+            },
+            {
+                "arrivalTime": "2022-07-12T09:13:00+03:00",
+                "departureTime": "2022-07-12T10:10:00+03:00",
+                "stopDuration": "57",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 8.7,
+            "reviewCount": 1349
+        }
+    },
+    "52": {
+        "train_number": "151М",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T00:56:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Киевская"
+            },
+            {
+                "arrivalTime": "2022-07-12T05:30:00+03:00",
+                "departureTime": "2022-07-12T05:34:00+03:00",
+                "stopDuration": "4",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-12T11:16:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 10,
+            "reviewCount": 4
+        }
+    },
+    "53": {
+        "train_number": "120В",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "RESERVED_SEAT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "SEDENTARY",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "2022-07-12T21:22:00+03:00",
+                "departureTime": "2022-07-12T21:37:00+03:00",
+                "stopDuration": "15",
+                "name": "Москва ВК Восточный"
+            },
+            {
+                "arrivalTime": "2022-07-13T00:43:00+03:00",
+                "departureTime": "2022-07-13T00:44:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:09:00+03:00",
+                "departureTime": "2022-07-13T01:10:00+03:00",
+                "stopDuration": "1",
+                "name": "Лихославль"
+            },
+            {
+                "arrivalTime": "2022-07-13T01:37:00+03:00",
+                "departureTime": "2022-07-13T01:38:00+03:00",
+                "stopDuration": "1",
+                "name": "Спирово"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:02:00+03:00",
+                "departureTime": "2022-07-13T02:03:00+03:00",
+                "stopDuration": "1",
+                "name": "Вышний Волочёк"
+            },
+            {
+                "arrivalTime": "2022-07-13T02:31:00+03:00",
+                "departureTime": "2022-07-13T02:32:00+03:00",
+                "stopDuration": "1",
+                "name": "Бологое-Московское"
+            },
+            {
+                "arrivalTime": "2022-07-13T03:32:00+03:00",
+                "departureTime": "2022-07-13T03:33:00+03:00",
+                "stopDuration": "1",
+                "name": "Окуловка"
+            },
+            {
+                "arrivalTime": "2022-07-13T06:16:00+03:00",
+                "departureTime": "2022-07-13T10:10:00+03:00",
+                "stopDuration": "234",
+                "name": "Санкт-Петербург Ладож."
+            }
+        ],
+        "rate": {
+            "rating": 7.7,
+            "reviewCount": 909
+        }
+    },
+    "54": {
+        "train_number": "020У",
+        "registration_status": "opened",
+        "seats": [
+            {
+                "type": "LUX",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            },
+            {
+                "type": "COMPARTMENT",
+                "seatsGroups": [
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    },
+                    {
+                        "type": "UNDEFINED",
+                        "seatsCount": 0,
+                        "isGender": false
+                    }
+                ],
+                "isNoInterchangeCar": false
+            }
+        ],
+        "stops": [
+            {
+                "arrivalTime": "",
+                "departureTime": "2022-07-12T00:20:00+03:00",
+                "stopDuration": "0",
+                "name": "Москва Октябрьская"
+            },
+            {
+                "arrivalTime": "2022-07-12T02:16:00+03:00",
+                "departureTime": "2022-07-12T02:17:00+03:00",
+                "stopDuration": "1",
+                "name": "Тверь"
+            },
+            {
+                "arrivalTime": "2022-07-12T08:59:00+03:00",
+                "departureTime": "",
+                "stopDuration": "0",
+                "name": "Санкт-Петербург-Главн."
+            }
+        ],
+        "rate": {
+            "rating": 9.2,
+            "reviewCount": 1031
+        }
+    },
+    "requestDateTime": "2022-07-12T01:08:02+03:00"
+}
