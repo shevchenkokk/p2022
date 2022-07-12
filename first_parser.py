@@ -57,15 +57,15 @@ def get_content(data):
             day = '0' + str(day) if len(str(day)) == 1 else day
             id += 1
             map[id] = {}
-            map[id]['Поезд'] = train
-            map[id]['Рейтинг поезда'] = rate
-            map[id]['Время отправления'] = time_from
-            map[id]['Время прибытия'] = time_to
-            map[id]['Откуда'] = town_from
-            map[id]['Куда'] = town_to
-            map[id]['Время в пути'] = travel_time
-            map[id]['Дата следования'] = year + '-' + month + '-' + day
-            map[id]['Ссылка'] = url + '&date=' + day + '.07.2022'
+            map[id]['trainNumber'] = train
+            map[id]['trainRate'] = rate
+            map[id]['departureTime'] = time_from
+            map[id]['arrivalTime'] = time_to
+            map[id]['townFrom'] = town_from
+            map[id]['townTo'] = town_to
+            map[id]['travelTime'] = travel_time
+            map[id]['Date'] = year + '-' + month + '-' + day
+            map[id]['Link'] = url + '&date=' + day + '.07.2022'
 
     with open('results.json', 'a', encoding='utf-8') as file:
         json.dump(map, file, indent=4, ensure_ascii=False)
