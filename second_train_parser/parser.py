@@ -96,7 +96,7 @@ def parse(data):
 
 def get_content(data):
     data = data.json()
-    with open('data.json', 'w', encoding='utf-8') as file:
+    with open('second_train_parser/data.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
     schedules = {}
@@ -123,7 +123,7 @@ def get_content(data):
     #точное время запроса
     schedules['requestDateTime'] = data[0]['requestDateTime']
         
-    with open('result.json', 'a', encoding='utf-8') as file:
+    with open('second_train_parser/result.json', 'w', encoding='utf-8') as file:
         json.dump(schedules, file, indent=4, ensure_ascii=False)
 
 def main():
