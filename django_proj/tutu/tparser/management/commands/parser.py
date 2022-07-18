@@ -91,6 +91,7 @@ def get_data(res):
     id = 0
     count = 0
 
+    Schedule.objects.all().delete()
     for item in schedules:
         if not 'desktop__link__2VlWW' in item.get('class'):
             count += 1
@@ -123,31 +124,31 @@ def get_data(res):
             map[id]['isTrainGone'] = isTrainGone
             map[id]['Link'] = link
 
-            try:
-                s = Schedule.objects.get(Link=link)
-                s.departureTime = map[id]['departureTime']
-                s.arrivalTime = map[id]['arrivalTime']
-                s.travelTime = map[id]['travelTime']
-                s.drivingMode = map[id]['drivingMode']
-                s.trainRoute = map[id]['trainRoute']
-                s.priceAtCheckout = map[id]['priceAtCheckout']
-                s.TroikaCardPrice = map[id]['\"Troika\"CardPrice']
-                s.delaysInfo = map[id]['delaysInfo']
-                s.isTrainGone = map[id]['isTrainGone']
-                s.Link = map[id]['Link']
-            except Schedule.DoesNotExist:
-                s = Schedule(
-                    departureTime = map[id]['departureTime'],
-                    arrivalTime = map[id]['arrivalTime'], 
-                    travelTime = map[id]['travelTime'],
-                    drivingMode = map[id]['drivingMode'],
-                    trainRoute = map[id]['trainRoute'],
-                    priceAtCheckout = map[id]['priceAtCheckout'], 
-                    TroikaCardPrice = map[id]['\"Troika\"CardPrice'],
-                    delaysInfo = map[id]['delaysInfo'],
-                    isTrainGone = map[id]['isTrainGone'],
-                    Link = map[id]['Link'],
-                ).save()
+            # try:
+            #     s = Schedule.objects.get(Link=link)
+            #     s.departureTime = map[id]['departureTime']
+            #     s.arrivalTime = map[id]['arrivalTime']
+            #     s.travelTime = map[id]['travelTime']
+            #     s.drivingMode = map[id]['drivingMode']
+            #     s.trainRoute = map[id]['trainRoute']
+            #     s.priceAtCheckout = map[id]['priceAtCheckout']
+            #     s.TroikaCardPrice = map[id]['\"Troika\"CardPrice']
+            #     s.delaysInfo = map[id]['delaysInfo']
+            #     s.isTrainGone = map[id]['isTrainGone']
+            #     s.Link = map[id]['Link']
+            # except Schedule.DoesNotExist:
+            s = Schedule(
+                departureTime = map[id]['departureTime'],
+                arrivalTime = map[id]['arrivalTime'], 
+                travelTime = map[id]['travelTime'],
+                drivingMode = map[id]['drivingMode'],
+                trainRoute = map[id]['trainRoute'],
+                priceAtCheckout = map[id]['priceAtCheckout'], 
+                TroikaCardPrice = map[id]['\"Troika\"CardPrice'],
+                delaysInfo = map[id]['delaysInfo'],
+                isTrainGone = map[id]['isTrainGone'],
+                Link = map[id]['Link'],
+            ).save()
 
             print(map[id])
     print(f'Всего расписаний электричек по выбранному маршруту найдено: {count}')

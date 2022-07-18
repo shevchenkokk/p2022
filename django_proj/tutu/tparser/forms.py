@@ -15,6 +15,7 @@ class ScheduleForm(forms.ModelForm):
             'priceAtCheckout', 
             'TroikaCardPrice',
             'delaysInfo',
+            'isTrainGone',
             'Link')
         widgets = {
             'departureTime': forms.TextInput,
