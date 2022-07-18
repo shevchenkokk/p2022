@@ -26,7 +26,7 @@ def parse(data):
         print('error: bad request')
 
 def get_content(data):
-    with open('first_train_parser/index.html', 'w') as file:
+    with open('first_tparser/index.html', 'w') as file:
         file.write(data.text)
 
     soup = BeautifulSoup(data.text, 'lxml')
@@ -67,11 +67,11 @@ def get_content(data):
             map[id]['Date'] = year + '-' + month + '-' + day
             map[id]['Link'] = url + '&date=' + day + '.07.2022'
 
-    with open('first_train_parser/result.json', 'w', encoding='utf-8') as file:
+    with open('first_tparser/result.json', 'w', encoding='utf-8') as file:
         json.dump(map, file, indent=4, ensure_ascii=False)
         
     df = pd.DataFrame(map).T
-    df.to_excel('first_train_parser/result.xlsx')
+    df.to_excel('first_tparser/result.xlsx')
 
 def main():
     data = get_data(url)
