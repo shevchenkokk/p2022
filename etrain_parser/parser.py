@@ -6,6 +6,11 @@ import re
 
 url = 'https://www.tutu.ru/rasp.php?st1=36305&st2=36105'
 
+json_result_filename = 'etrain_parser/result.json'
+xlsx_result_filename = 'etrain_parser/result.xlsx'
+
+map = {}
+
 cookies = {
     'SESSIONID': '92b0b3eb-0b8d-4ac4-9955-00136b7134d4',
     'servercookie3__cross_domain_secured': 'a3df48729a69939d8f1d7a801cd8db27',
@@ -90,7 +95,6 @@ def get_data(res):
     soup = BeautifulSoup(res.text, 'lxml')
 
     schedules = soup.find('tbody', class_='desktop__timetable__3wEtY')
-    map = {}
     id = 0
 
 
